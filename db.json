@@ -1,42 +1,42 @@
 [
-    {
-      "id": 5985,
-      "priority": 1,
-      "note": "",
-      "fields": [
-        {
-          "id": 0,
-          "field": "PerformanceTime",
-          "operator": "LessThanOrEqual",
-          "value": ""
-        }
-      ],
-      "offerCode": "",
-      "pricing": {
-        "BookingFeeAbsolute": 0,
-        "BookingFeePercent": 0,
-        "PriceSelling": 0,
-        "InsideCommission": 0
+  {
+    "id": 2374,
+    "priority": 1,
+    "note": "",
+    "fields": [
+      {
+        "id": 0,
+        "field": "PerformanceTime",
+        "operator": "LessThanOrEqual",
+        "value": ""
       }
-    },
-    {
-        "id": 4362,
-        "priority": 2,
-        "note": "",
-        "fields": [
-          {
-            "id": 0,
-            "field": "PerformanceTime",
-            "operator": "LessThanOrEqual",
-            "value": ""
-          }
-        ],
-        "offerCode": "",
-        "pricing": {
-          "BookingFeeAbsolute": 0,
-          "BookingFeePercent": 0,
-          "PriceSelling": 0,
-          "InsideCommission": 0
-        }
+    ],
+    "offerCode": "",
+    "pricing": {
+      "BookingFeeAbsolute": 0,
+      "BookingFeePercent": 0,
+      "PriceSelling": 0,
+      "InsideCommission": 0
+    }
+  },
+  {
+    "id": 1539,
+    "priority": 1,
+    "note": "",
+    "fields": [
+      {
+        "id": 0,
+        "field": "PerformanceTime",
+        "operator": "LessThanOrEqual",
+        "value": ""
       }
+    ],
+    "offerCode": "",
+    "pricing": {
+      "BookingFeeAbsolute": 0,
+      "BookingFeePercent": 0,
+      "PriceSelling": 0,
+      "InsideCommission": 0
+    }
+  }
 ]
