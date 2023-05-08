@@ -3,16 +3,22 @@
     {
       "id": 7569,
       "priority": 1,
-      "note": "",
+      "note": "this is an testing note on ruleset",
       "fields": [
         {
           "id": 0,
           "field": "PerformanceTime",
           "operator": "LessThanOrEqual",
-          "value": ""
+          "value": "10:30"
+        },
+        {
+          "id": 1,
+          "field": "PerformanceDayOfWeek",
+          "operator": "Equal",
+          "value": "Tuesday"
         }
       ],
-      "offerCode": "",
+      "offerCode": "test-test-1234",
       "pricing": {
         "BookingFeeAbsolute": 0,
         "BookingFeePercent": 0,
@@ -22,14 +28,14 @@
     },
     {
       "id": 1248,
-      "priority": 1,
-      "note": "",
+      "priority": 2,
+      "note": "testing note 2",
       "fields": [
         {
           "id": 0,
           "field": "PerformanceTime",
           "operator": "LessThanOrEqual",
-          "value": ""
+          "value": "12:40"
         }
       ],
       "offerCode": "",
